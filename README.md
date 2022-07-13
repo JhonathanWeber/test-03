@@ -1,17 +1,17 @@
-# Project test-03
+# Project test-03 ✅
 
 Teste realizado para testar deploy e build de teste via github actions e integração via merge pelo github por pull request.
 
 ## tecnologias utilizadas
 
- - firebase
+ - firebase 
     - hosting:github 
  - git
     - Para controle de versão via branch
  - github, pull request e github actions
     - para subir testes de deploy e building via realizar merge da branch com main
  
- ### teste realizados com sucesso!!!
+ ### teste realizados com sucesso!!! 
  
  links para acesso do projecto.
   
